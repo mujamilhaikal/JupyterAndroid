@@ -3,7 +3,10 @@ This is a very simple Bash script to install jupyter notebook program for androi
 
 **ZIP INSTALATION**
 * Install Emulator GNU/LINUX Android Like `TERMUX` from PlayStore
-* After Installing, type in terminal `termux-setup-storage`
+* Download ZIP file in [here](https://github.com/tubagus-dev/JupyterAndroid/archive/refs/heads/main.zip)
+* After Installing Termux, open that and type in terminal `termux-setup-storage` the app will ask for permission to access your storage
+
+
 
 
 
