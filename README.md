@@ -11,6 +11,13 @@ This is a very simple Bash script to install jupyter notebook program for androi
 * then type ```bash install.sh```
 * wait & your JupyterNotebook will be installed automatically
 
+**CLI INSTALATION**
+* Open Terminal
+* Install git for your device's
+* Type ``` git clone https://github.com/tubagus-dev/JupyterAndroid```
+* Type ``` cd JupyterAndroid ```
+* Run the program ``` bash install.sh```
+
 **USAGE**
 * write in terminal  ```jupyter notebook```
 * copy and paste **jupyter notebook link** to the browser you like
